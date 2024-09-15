@@ -4,7 +4,7 @@
 ## Overview 
 This project involves a detailed analysis of Zomato's data using Power BI, showcasing various insights through visualizations such as bar charts, cards, and more. The project includes filtering capabilities and presents key metrics like sales, orders, ratings, city-wise performance, yearly sales, user behavior, and more. The dashboard provides a comprehensive view for better decision-making.
 
-**![image](https://github.com/user-attachments/assets/2f99bf76-c28e-421a-b6ec-5ca0d5001f13)
+
 
 ## Features
 
